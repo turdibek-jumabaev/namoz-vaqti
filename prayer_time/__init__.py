@@ -1,0 +1,1 @@
+from .vaqt import NamozVaqti
